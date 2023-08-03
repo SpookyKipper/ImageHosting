@@ -17,7 +17,7 @@
     "dependencies": {
         "@fastify/cookie": "^6.0.0",
         "@fastify/helmet": "^8.0.0",
-        "@fastify/multipart": "^6.0.0",
+        "@fastify/multipart": "^6.0.1",
         "@mikro-orm/core": "^5.2.0",
         "@mikro-orm/migrations": "^5.2.0",
         "@mikro-orm/nestjs": "^5.0.2",
